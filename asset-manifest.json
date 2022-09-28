@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/radial-navbar/static/css/main.6aab3e12.css",
+    "main.js": "/radial-navbar/static/js/main.45092940.js",
+    "index.html": "/radial-navbar/index.html",
+    "main.6aab3e12.css.map": "/radial-navbar/static/css/main.6aab3e12.css.map",
+    "main.45092940.js.map": "/radial-navbar/static/js/main.45092940.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aab3e12.css",
+    "static/js/main.45092940.js"
+  ]
+}
